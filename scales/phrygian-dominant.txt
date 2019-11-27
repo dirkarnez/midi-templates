@@ -1,0 +1,40 @@
+MFile 1 2 96
+MTrk
+0 Tempo 800000
+0 TimeSig 4/4 24 8
+0 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "FL Keys #3 1"
+0 On ch=1 n=45 v=100
+48 Off ch=1 n=45 v=64
+48 On ch=1 n=46 v=100
+96 Off ch=1 n=46 v=64
+96 On ch=1 n=49 v=100
+144 Off ch=1 n=49 v=64
+144 On ch=1 n=50 v=100
+192 Off ch=1 n=50 v=64
+192 On ch=1 n=52 v=100
+240 Off ch=1 n=52 v=64
+240 On ch=1 n=53 v=100
+288 Off ch=1 n=53 v=64
+288 On ch=1 n=55 v=100
+336 Off ch=1 n=55 v=64
+336 On ch=1 n=57 v=100
+384 Off ch=1 n=57 v=64
+384 On ch=1 n=55 v=100
+432 Off ch=1 n=55 v=64
+432 On ch=1 n=53 v=100
+480 Off ch=1 n=53 v=64
+480 On ch=1 n=52 v=100
+528 Off ch=1 n=52 v=64
+528 On ch=1 n=50 v=100
+576 Off ch=1 n=50 v=64
+576 On ch=1 n=49 v=100
+624 Off ch=1 n=49 v=64
+624 On ch=1 n=46 v=100
+672 Off ch=1 n=46 v=64
+672 On ch=1 n=45 v=100
+720 Off ch=1 n=45 v=64
+720 Meta TrkEnd
+TrkEnd
